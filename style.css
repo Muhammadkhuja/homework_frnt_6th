@@ -263,7 +263,6 @@ a {
   .effigy {
     display: flex;
     flex-direction: column;
-    width: 50%;
     text-align: center;
     gap: 35px;
   }
